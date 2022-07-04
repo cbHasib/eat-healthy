@@ -2,6 +2,14 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+
 .text-gradient{
-    color: to left, #FBA24F, #FF1E1E;
+    background: linear-gradient(to right, #FBA24F 0%, #FF1E1E 30%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
