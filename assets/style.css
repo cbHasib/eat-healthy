@@ -78,7 +78,7 @@ p {
 .half-width {
     width: 50%;
     align-self: center;
-
+    
 }
 
 
@@ -114,7 +114,6 @@ p {
 
 
 #about-image {
-
     margin-left: auto;
     width: 100%;
 }
