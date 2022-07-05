@@ -78,10 +78,12 @@ p {
 .half-width {
     width: 50%;
     align-self: center;
+
 }
 
 
 #hero-image {
+    display: block;
     background-image: url(images/shapes/pattern.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
